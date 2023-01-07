@@ -3,5 +3,6 @@ Regnbue
 rød
 oransje
 gul
+grønn
 
 alle fargene i regnbuen
