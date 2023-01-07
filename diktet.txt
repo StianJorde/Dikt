@@ -5,6 +5,7 @@ oransje
 gul
 grønn
 blå
+indigo
 
 alle fargene i regnbuen
 
