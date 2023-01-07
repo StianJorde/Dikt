@@ -4,5 +4,6 @@ rød
 oransje
 gul
 grønn
+blå
 
 alle fargene i regnbuen
